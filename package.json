@@ -1,0 +1,22 @@
+{
+  "name": "tab-limit",
+  "version": "0.0.0",
+  "description": "Tab limit package for Atom",
+  "main": "./lib/main.js",
+  "engines": {
+    "atom": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fred Sladkey",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fsladkey/tab-limit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fsladkey/tab-limit/issues"
+  },
+  "license": "MIT"
+}

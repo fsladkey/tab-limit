@@ -1,6 +1,6 @@
 {
   "name": "tab-limit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Tab limit package for Atom",
   "main": "./lib/main.js",
   "engines": {

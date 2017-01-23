@@ -5,9 +5,9 @@ tabLimit = {
   limit: 5,
 
   activate: (state) ->
-    this.activePane = atom.workspace.getActivePane();
-    this.tabs = this.activePane.getItems();
-    this.activePane.onDidChangeActiveItem((item) ->
+    this.activePane = atom.workspace.getActivePane()
+    this.tabs = this.activePane.getItems()
+    this.activePane.onDidChangeActiveItem((item) =>
       this.handleNewActiveItem(item)
     )
 

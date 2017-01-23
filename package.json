@@ -2,7 +2,7 @@
   "name": "tab-limit",
   "version": "0.2.0",
   "description": "Tab limit package for Atom",
-  "main": "./lib/main.js",
+  "main": "./lib/main.coffee",
   "engines": {
     "atom": "*"
   },
